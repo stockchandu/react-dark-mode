@@ -1,0 +1,12 @@
+#active-parent{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    margin: 5% 0 2% 2%;
+}
+
+#active-parent>div:nth-child(2){
+    font-weight: 600;
+    font-size: 12px;
+    margin:2% 2% 0 0 ;
+}

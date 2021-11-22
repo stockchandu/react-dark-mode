@@ -1,0 +1,12 @@
+#active-user-parent{
+    width: 40vw;
+    margin-top: 5%;
+}
+
+#active-user-parent>div:nth-child(1){
+    display: flex;
+}
+
+#active-user-parent>div:nth-child(1)>div:nth-child(2){
+    padding-top: 3%;
+}

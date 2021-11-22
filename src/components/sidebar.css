@@ -1,0 +1,41 @@
+#side-parent{
+    width: 5vw;
+    margin-right: 2vw;
+}
+
+#side-parent>div:nth-child(1){
+    margin: 2% 0 0 15%;
+    height: 30vh;
+}
+#side-parent>div:nth-child(2){
+    margin: 2% 0 0 2%;
+    height: 8vh;
+}
+#side-parent>div:nth-child(3)
+,#side-parent>div:nth-child(5)
+,#side-parent>div:nth-child(7)
+,#side-parent>div:nth-child(9)
+,#side-parent>div:nth-child(11){
+   height: 1px;
+   background-color: rgb(230, 230, 230);
+   width: 2vw;
+   margin-left: 15%;
+}
+#side-parent>div:nth-child(4){
+    margin: 2% 0 0 15%;
+    height: 7vh;
+}
+
+
+#side-parent>div:nth-child(6)
+,#side-parent>div:nth-child(10)
+,#side-parent>div:nth-child(8){
+    margin: 20% 0 0 15%;
+    height: 7vh;
+}
+
+
+#side-parent>div:nth-child(12){
+    margin:150% 0 0 15%;
+    height: 7vh;
+}
